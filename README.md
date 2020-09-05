@@ -39,7 +39,7 @@ should have three things:
 6. Clicking on any of the item in the RecyclerView should open the Display Mail Screen.  
 7. Clicking on the Delete ImageView should call the Delete API and delete the particular message from Inbox.
 
-## Part D: Create New Email (25 Points)
+## Part D: Create New Email  
 Clicking on Create New Email ImageView should take you to Create New Email Screen.
 Please follow the instructions:
 1. You should get the users using the Users API, and add them in a Spinner (Drop Down). Every item in the Spinner should display “FirstName LastName.”  
@@ -51,7 +51,7 @@ Please follow the instructions:
 is sent, and finish the activity.
 7. Clicking on Cancel button should finish the activity.  
 
-## Part E: Display Mail (5 Points)
+## Part E: Display Mail  
 Design the UI yourself that contains:  
 1. Sender Name.  
 2. Subject.  
